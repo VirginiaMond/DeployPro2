@@ -5,7 +5,7 @@ const pool = new Pool({
   port: process.env.DB_PORT || 5432,
   database: process.env.DB_NAME || 'tasksdb',
   user: process.env.DB_USER || 'postgres',
-  password: 'teste123',
+  password: 'opsaen@opa!834^132&00--',
 });
 
 async function migrate() {
