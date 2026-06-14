@@ -1,4 +1,4 @@
-# Tasks API — Exemplo Imersão DevOps
+# Tasks API — Exemplo Imersão DevOps - Teste
 
 API de tarefas (CRUD) usada como aplicação de exemplo durante a **1ª Imersão DevOps & Cloud na Prática**.
 
